@@ -10,4 +10,8 @@
 
 @interface MainScene : CCNode
 
+@property (strong, nonatomic) NSString *jorreIS;
+
+-(BOOL)whatIsJorrie;
+
 @end
