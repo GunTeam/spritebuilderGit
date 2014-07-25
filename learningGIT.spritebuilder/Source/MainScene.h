@@ -9,6 +9,12 @@
 #import "CCNode.h"
 
 @interface MainScene : CCNode
+{
+    CCNode *adamIsDumb;
+    CCSprite *hePacksTheFudge;
+}
+
+-(void) adamWantedCheeseCurdsAndPussy;
 
 @property (strong, nonatomic) NSString *jorreIS;
 
